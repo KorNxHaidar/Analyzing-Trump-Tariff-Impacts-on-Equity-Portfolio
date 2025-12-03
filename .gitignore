@@ -1,0 +1,29 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Environment Variables ---
+.env
+.env.*
+
+# --- IDE Settings (VS Code) ---
+.vscode/
+*.code-workspace
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+
+# --- Streamlit (ถ้าใช้ Streamlit Cloud) ---
+.streamlit/secrets.toml
+
+# --- Data Files ---
+data/
+*.csv
+

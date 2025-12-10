@@ -20,7 +20,7 @@ This tool allows users to:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/KorNxHaidar/Analyzing-Trump-Tariff-Impacts-on-Equity-Portfolio.git
-   cd stock-analysis
+   cd Analyzing-Trump-Tariff-Impacts-on-Equity-Portfolio
     ```
 
 2.  **Install Dependencies**
